@@ -1,11 +1,11 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(250, 213, 6);
 
     margin: 10%;
 }
 
 h1 {
-    color: red;
+    color: rgb(0, 0, 0);
 
     text-align: center;
 }
